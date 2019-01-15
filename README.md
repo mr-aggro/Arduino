@@ -1,2 +1,2 @@
 # Arduino
-Arduino rojects
+Arduino projects
